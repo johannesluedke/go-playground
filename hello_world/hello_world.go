@@ -17,4 +17,6 @@ func main() {
 	firstVar = 5
 	secondVar = 8
 	fmt.Println(firstVar * secondVar)
+
+	// weiter mit https://www.tutorialspoint.com/go/go_variables.htm
 }
